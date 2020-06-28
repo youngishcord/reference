@@ -1,3 +1,3 @@
 # reference
-for copy/past
+for copy/past\n
 we love reference
